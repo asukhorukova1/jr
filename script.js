@@ -50,7 +50,7 @@ function init() {
 
     $("img").on({
         mouseenter: function() {
-            $(this).css("box-shadow","0px 0px 10px pink");
+            $(this).css("box-shadow","0px 0px 20px pink");
             // getName(this);
         },
         mouseleave: function() {
